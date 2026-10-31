@@ -1,0 +1,6 @@
+{
+  "name": "MediShare AI",
+  "description": "Trusted healthcare resource-sharing platform connecting hospitals, clinics, and medical colleges to share underused medical equipment and facilities with AI-assisted matching and QR verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
